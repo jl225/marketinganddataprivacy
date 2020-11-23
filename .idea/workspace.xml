@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/images/Untitled- 21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/Untitled-1-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/Untitled-2 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/Untitled-3 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/Untitled-31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/Untitled-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/Untitled-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kdtMdoUB1nr8K1LHoyu5N2sHDC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606042250607</updated>
-      <workItem from="1606042251720" duration="28345000" />
+      <workItem from="1606042251720" duration="34165000" />
     </task>
     <servers />
   </component>
@@ -66,6 +80,14 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="627" y="78" key="#SSH_Configurations/0.0.1473.864@0.0.1473.864" timestamp="1606042545710" />
+    <state x="575" y="330" key="Github.ShareDialog" timestamp="1606127317091">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="575" y="330" key="Github.ShareDialog/0.0.1473.864@0.0.1473.864" timestamp="1606127317091" />
+    <state x="494" y="137" key="Github.UntrackedFilesDialog" timestamp="1606127325080">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="494" y="137" key="Github.UntrackedFilesDialog/0.0.1473.864@0.0.1473.864" timestamp="1606127325080" />
     <state x="762" y="200" key="run.anything.popup" timestamp="1606112349990">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
