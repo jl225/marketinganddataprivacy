@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: images moved2">
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1208077979-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-944724820-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/seo-content-marketing-11.jpg" afterDir="false" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: save">
+      <change afterPath="$PROJECT_DIR$/docs/images/20190807_223430.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/istockphoto-1142192648-612x612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/style_pages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/FacebookDilemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FacebookDilemma.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -147,13 +146,18 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201337288" />
-    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606194866576">
-      <screen x="0" y="0" width="1473" height="864" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606245566778">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1473.864@0.0.1473.864" timestamp="1606194866576" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1606245566778" />
     <state x="762" y="200" key="run.anything.popup" timestamp="1606112349990">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="762" y="200" key="run.anything.popup/0.0.1473.864@0.0.1473.864" timestamp="1606112349990" />
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606256989221">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1606256989221" />
   </component>
 </project>
