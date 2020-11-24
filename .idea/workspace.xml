@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: links and files added">
-      <change afterPath="$PROJECT_DIR$/docs/images/Ensure+Student+Safety+&amp;+Privacy+Compliance+with+LearnPlatform.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/af6816ec67ec51da6b275a4aa08d236c-lock-circle-icon-by-vexels.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: images added">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style2.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606042250607</updated>
-      <workItem from="1606042251720" duration="65441000" />
+      <workItem from="1606042251720" duration="65756000" />
     </task>
     <task id="LOCAL-00001" summary="task: carousel edited">
       <created>1606158403459</created>
@@ -87,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606197071072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task: images added">
+      <created>1606201039711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606201039712</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +100,8 @@
     <MESSAGE value="task: card column added" />
     <MESSAGE value="task: edited" />
     <MESSAGE value="task: links and files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: links and files added" />
+    <MESSAGE value="task: images added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: images added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="91" key="#Deployment" timestamp="1606193694589">
@@ -125,10 +128,10 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="494" y="137" key="Github.UntrackedFilesDialog/0.0.1473.864@0.0.1473.864" timestamp="1606127325080" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606197073554">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606201041926">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606197073554" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201041926" />
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606194866576">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
