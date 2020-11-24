@@ -1,7 +1,15 @@
 .navbar a{
-    font-family: 'Quicksand', sans-serif, serif;font-size: 19px;
+    font-family: 'Quicksand', sans-serif, serif;font-size: 18px;
 }
-
+.nav-link span{
+    font-family: 'Quicksand', sans-serif, serif;font-size: 18px;color: black;
+}
+.nav-link i{
+    font-family: 'Quicksand', sans-serif, serif;font-size: 18px;color: black;
+}
+.nav-link a{
+    font-family: 'Quicksand', sans-serif, serif;font-size: 18px;color: black;
+}
 .navbar {
     position:fixed;
     top: 0;
@@ -42,7 +50,7 @@ transition: set-nth(carousel-transition, 1, height);
 .carousel .item { height: 260px; }
 
 .carousel-caption{
-    top: 150px;
+    top: 145px;
     right: 20px;
     left: 20px;
     padding-bottom: 40px;
@@ -79,12 +87,12 @@ body {
 /* Float four columns side by side */
 .column {
     float: left;
-    width: 25%;
+    width: 20%;
     padding: 20px;
 }
 
 /* Remove extra left and right margins, due to padding in columns */
-.row {margin: 80px;}
+.row {margin: 90px;}
 
 /* Clear floats after the columns */
 .row:after {
@@ -104,5 +112,7 @@ body {
 
 /* Add some padding inside the card container */
 .container {
-    padding: 2px 16px;
+    padding: 2px 16px 28px;
 }
+
+
