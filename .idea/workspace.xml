@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: f lay out" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: created branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -51,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606042250607</updated>
-      <workItem from="1606042251720" duration="82685000" />
+      <workItem from="1606042251720" duration="83166000" />
     </task>
     <task id="LOCAL-00001" summary="task: carousel edited">
       <created>1606158403459</created>
@@ -102,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606219128720</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task: created branch">
+      <created>1606245203569</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606245203570</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +129,8 @@
     <MESSAGE value="task: images moved" />
     <MESSAGE value="task: images moved2" />
     <MESSAGE value="task: f lay out" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: f lay out" />
+    <MESSAGE value="task: created branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: created branch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="91" key="#Deployment" timestamp="1606193694589">
@@ -144,11 +157,11 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="494" y="137" key="Github.UntrackedFilesDialog/0.0.1473.864@0.0.1473.864" timestamp="1606127325080" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606219133516">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606245210223">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201337288" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606219133516" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606245210223" />
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606194866576">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
