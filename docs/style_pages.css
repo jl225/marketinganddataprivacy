@@ -88,9 +88,6 @@ transition: set-nth(carousel-transition, 1, height);
     box-sizing: border-box;
 }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 /* Float four columns side by side */
 .column {
