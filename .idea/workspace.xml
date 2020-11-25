@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: pages uploaded">
-      <change afterPath="$PROJECT_DIR$/docs/images/B612_20200826_140907_627 (1).jpg" afterDir="false" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: photos">
+      <change afterPath="$PROJECT_DIR$/docs/images/B612_.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Anonymous.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/FacebookDilemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FacebookDilemma.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/FacebookDilemma2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LegalAspects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LookAlike.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Surveillance.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Surveillance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/OnlineTracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/OnlineTracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../historyoftheinternet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -140,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606311355144</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task: photos">
+      <created>1606343248173</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606343248174</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +161,8 @@
     <MESSAGE value="task: page lay out finished" />
     <MESSAGE value="task: background color" />
     <MESSAGE value="task: pages uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: pages uploaded" />
+    <MESSAGE value="task: photos" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: photos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="91" key="#Deployment" timestamp="1606193694589">
