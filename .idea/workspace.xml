@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: pages uploaded">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/B612_20200826_140907_627 (1).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Anonymous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/FacebookDilemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FacebookDilemma.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FacebookDilemma2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/LegalAspects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/LookAlike.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Surveillance.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Surveillance.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../historyoftheinternet" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -130,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606263524597</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task: pages uploaded">
+      <created>1606311355142</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606311355144</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,10 +173,11 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="627" y="78" key="#SSH_Configurations/0.0.1473.864@0.0.1473.864" timestamp="1606042545710" />
-    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1606213613612">
-      <screen x="0" y="0" width="1473" height="864" />
+    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1606342154986">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="517" y="187" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1606213613612" />
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606342154986" />
     <state x="575" y="330" key="Github.ShareDialog" timestamp="1606127317091">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
@@ -179,11 +190,11 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1474.864@0.0.1474.864" timestamp="1606262643653" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606260579167">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606311357547">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201337288" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606260579167" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606311357547" />
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606245566778">
       <screen x="0" y="0" width="1474" height="864" />
     </state>

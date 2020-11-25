@@ -69,10 +69,11 @@ transition: set-nth(carousel-transition, 1, height);
 }
 
 .circular--landscape img {
-    width: auto;
-    height: 100%;
+    width: 200px;
+    height: 200px;
     margin-left: -600px;
     margin-top: 600px;
+    object-fit: cover;
 }
 
 /*card columns*/
