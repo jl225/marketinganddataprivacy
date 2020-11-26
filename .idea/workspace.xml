@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: All navs Fixed">
-      <change afterPath="$PROJECT_DIR$/docs/Thoughts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Laws.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/653277.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/B612_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/Eberhardt_Hall_.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/IMG 44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/IMG_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/Untitled-1222.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Anonymous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/LookAlike.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/LookAlike.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/OnlineTracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/OnlineTracking.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Surveillance.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Surveillance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Thoughts.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Thoughts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/B612_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/B612_.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style_pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style_pages.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +38,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="save2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kdtMdoUB1nr8K1LHoyu5N2sHDC" />
@@ -39,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloud-technology" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -49,6 +65,7 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amber\WebstormProjects\marketinganddataprivacy\docs\images" />
+      <recent name="C:\Users\amber\Desktop" />
       <recent name="C:\Users\amber\WebstormProjects\marketinganddataprivacy\images" />
     </key>
   </component>
@@ -153,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606346894935</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="task: All navs Fixed">
+      <created>1606355298278</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606355298279</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,11 +213,11 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="627" y="78" key="#SSH_Configurations/0.0.1473.864@0.0.1473.864" timestamp="1606042545710" />
-    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1606342154986">
+    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1606380557068">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="517" y="187" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1606213613612" />
-    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606342154986" />
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606380557068" />
     <state x="575" y="330" key="Github.ShareDialog" timestamp="1606127317091">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
@@ -202,28 +226,28 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="494" y="137" key="Github.UntrackedFilesDialog/0.0.1473.864@0.0.1473.864" timestamp="1606127325080" />
-    <state x="140" y="69" key="MergeDialog" timestamp="1606354245535">
+    <state x="221" y="55" key="MergeDialog" timestamp="1606357183955">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="140" y="69" key="MergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1606354245535" />
-    <state x="376" y="194" key="MultipleFileMergeDialog" timestamp="1606354134516">
+    <state x="221" y="55" key="MergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1606357183955" />
+    <state x="376" y="194" key="MultipleFileMergeDialog" timestamp="1606357183972">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="376" y="194" key="MultipleFileMergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1606354134516" />
+    <state x="376" y="194" key="MultipleFileMergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1606357183972" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1606262643653">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1474.864@0.0.1474.864" timestamp="1606262643653" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606347066884">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606357229028">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201337288" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606347066884" />
-    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606354108913">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606357229028" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606357469825">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1473.864@0.0.1473.864" timestamp="1606194866576" />
-    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1606354108913" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1606357469825" />
     <state x="762" y="200" key="run.anything.popup" timestamp="1606112349990">
       <screen x="0" y="0" width="1473" height="864" />
     </state>

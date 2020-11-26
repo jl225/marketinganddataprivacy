@@ -40,10 +40,10 @@ body {
     padding-bottom: 0;
 }
 .carousel-img{
-    margin-top: 50px;
-    width: 450px;
-    height: auto;
-    margin-bottom: 50%;
+    margin-top: 600px;
+    width: auto;
+    height: 400px;
+    margin-bottom: 0%;
 }
 /* Since positioning the image, we need to help out the caption */
 
@@ -54,21 +54,15 @@ body {
     position:relative;
 }
 
-.carousel-wrapper {
-// Replace transition-property from carousel transition variable
-transition: set-nth(carousel-transition, 1, height);
-}
 
 /* Declare heights because of positioning of img element */
-.carousel .item { height: 260px; }
+.carousel .item { height: 200px;
+    width: auto
+}
 
 .carousel-caption{
-    top: 145px;
-    right: 20px;
-    left: 20px;
-    padding-bottom: 40px;
-    min-width: 300px;
-    max-width : 700px
+    top: 170px;
+
 }
 /*images*/
 .circular--landscape {
