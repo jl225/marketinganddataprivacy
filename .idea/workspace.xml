@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: photos">
-      <change afterPath="$PROJECT_DIR$/docs/images/B612_.jpg" afterDir="false" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: links">
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-144474212-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-174541448-2048x2048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-944827400-2048x2048.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Anonymous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FacebookDilemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FacebookDilemma.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/OnlineTracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/OnlineTracking.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606343248174</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="task: links">
+      <created>1606346894932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606346894935</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +173,8 @@
     <MESSAGE value="task: background color" />
     <MESSAGE value="task: pages uploaded" />
     <MESSAGE value="task: photos" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: photos" />
+    <MESSAGE value="task: links" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: links" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="91" key="#Deployment" timestamp="1606193694589">
@@ -194,11 +206,11 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1474.864@0.0.1474.864" timestamp="1606262643653" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606311357547">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606347066884">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201337288" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606311357547" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606347066884" />
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606245566778">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
