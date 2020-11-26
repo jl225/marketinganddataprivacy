@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: photos">
-      <change afterPath="$PROJECT_DIR$/docs/images/B612_.jpg" afterDir="false" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: All navs Fixed">
+      <change afterPath="$PROJECT_DIR$/docs/Thoughts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Anonymous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/LookAlike.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/LookAlike.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/OnlineTracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/OnlineTracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Surveillance.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Surveillance.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -17,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -143,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606343248174</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="task: links">
+      <created>1606346894932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606346894935</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +172,9 @@
     <MESSAGE value="task: background color" />
     <MESSAGE value="task: pages uploaded" />
     <MESSAGE value="task: photos" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: photos" />
+    <MESSAGE value="task: links" />
+    <MESSAGE value="task: All navs Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: All navs Fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="91" key="#Deployment" timestamp="1606193694589">
@@ -190,20 +202,28 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="494" y="137" key="Github.UntrackedFilesDialog/0.0.1473.864@0.0.1473.864" timestamp="1606127325080" />
+    <state x="140" y="69" key="MergeDialog" timestamp="1606354245535">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="140" y="69" key="MergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1606354245535" />
+    <state x="376" y="194" key="MultipleFileMergeDialog" timestamp="1606354134516">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="376" y="194" key="MultipleFileMergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1606354134516" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1606262643653">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1474.864@0.0.1474.864" timestamp="1606262643653" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606311357547">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606347066884">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201337288" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606311357547" />
-    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606245566778">
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606347066884" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606354108913">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1473.864@0.0.1473.864" timestamp="1606194866576" />
-    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1606245566778" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1606354108913" />
     <state x="762" y="200" key="run.anything.popup" timestamp="1606112349990">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
