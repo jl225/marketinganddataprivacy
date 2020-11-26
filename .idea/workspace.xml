@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: images moved2">
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-1208077979-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-944724820-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/seo-content-marketing-11.jpg" afterDir="false" />
+    <list default="true" id="886aea29-7e73-42aa-845a-c6f35eb8dae4" name="Default Changelist" comment="task: photos">
+      <change afterPath="$PROJECT_DIR$/docs/images/B612_.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/FacebookDilemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FacebookDilemma.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BrowserFingerprinting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/OnlineTracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/OnlineTracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UnitedStatesOfSecrets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -102,7 +101,49 @@
       <option name="project" value="LOCAL" />
       <updated>1606201331752</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="task: page lay out">
+      <created>1606257330567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606257330570</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task: page lay out finished">
+      <created>1606259236193</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606259236193</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task: background color">
+      <created>1606260576503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606260576503</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task: pages uploaded">
+      <created>1606263524596</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606263524597</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task: pages uploaded">
+      <created>1606311355142</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606311355144</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task: photos">
+      <created>1606343248173</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606343248174</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +157,12 @@
     <MESSAGE value="task: images added" />
     <MESSAGE value="task: images moved" />
     <MESSAGE value="task: images moved2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: images moved2" />
+    <MESSAGE value="task: page lay out" />
+    <MESSAGE value="task: page lay out finished" />
+    <MESSAGE value="task: background color" />
+    <MESSAGE value="task: pages uploaded" />
+    <MESSAGE value="task: photos" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: photos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="91" key="#Deployment" timestamp="1606193694589">
@@ -131,10 +177,11 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="627" y="78" key="#SSH_Configurations/0.0.1473.864@0.0.1473.864" timestamp="1606042545710" />
-    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1606213613612">
-      <screen x="0" y="0" width="1473" height="864" />
+    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1606342154986">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="517" y="187" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1606213613612" />
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1606342154986" />
     <state x="575" y="330" key="Github.ShareDialog" timestamp="1606127317091">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
@@ -143,17 +190,27 @@
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="494" y="137" key="Github.UntrackedFilesDialog/0.0.1473.864@0.0.1473.864" timestamp="1606127325080" />
-    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606201337288">
-      <screen x="0" y="0" width="1473" height="864" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1606262643653">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1474.864@0.0.1474.864" timestamp="1606262643653" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606311357547">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1606201337288" />
-    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606194866576">
-      <screen x="0" y="0" width="1473" height="864" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1606311357547" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606245566778">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1473.864@0.0.1473.864" timestamp="1606194866576" />
+    <state x="555" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1606245566778" />
     <state x="762" y="200" key="run.anything.popup" timestamp="1606112349990">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="762" y="200" key="run.anything.popup/0.0.1473.864@0.0.1473.864" timestamp="1606112349990" />
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1606256989221">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1606256989221" />
   </component>
 </project>
